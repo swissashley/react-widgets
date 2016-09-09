@@ -1,0 +1,28 @@
+.selected {
+  font-weight: bold;
+}
+
+.not-selected {
+  font-weight: normal;
+}
+
+.tabs {
+  border: 2px black solid;
+  width: 250px;
+}
+
+li {
+  float: left;
+  list-style: none;
+}
+
+
+
+.group after{
+  content: "";
+  clear: both;
+}
+
+article {
+  text-align: center;
+}
